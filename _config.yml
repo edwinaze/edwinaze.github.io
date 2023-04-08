@@ -19,6 +19,7 @@ email: "2957604083"
 description: ACMer, Gamer, Music Lover
 baseurl: "/edwinaze" # the subpath of your site, e.g. /blog https://edwinaze.github.io.
 url: "http://edwinaze.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+theme: jekyll-theme-potato-hacker
 
 # ------------------------------------------------------------------------------
 # Custom settings
